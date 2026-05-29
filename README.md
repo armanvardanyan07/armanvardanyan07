@@ -1,5 +1,70 @@
-# About Me:
-About Me:<br> Hi, I’m Arman<br><br>I’m a developer focused on building modern web applications and exploring machine learning. I enjoy turning ideas into real, scalable products and continuously improving my skills.<br><br> Tech Stack<br><br>Frontend:<br>HTML, CSS, Tailwind, JavaScript, React<br><br>Backend / Programming:<br>Python<br><br>Machine Learning / AI:<br>NumPy, Pandas, scikit-learn (basic experience)<br><br>Tools & Technologies:<br>Git, REST API, Docker (basic), Linux<br><br> Experience<br>1.5+ years of experience in frontend development<br>1 year of experience in Python and Machine Learning<br>Building responsive and user-friendly web interfaces<br>Working with APIs and integrating backend services<br>Writing clean, structured, and maintainable code<br> What I Do<br><br>Develop modern web applications using React<br>Create responsive UI with focus on performance and usability<br>Work with APIs and manage data flow between frontend and backend<br>Experiment with machine learning models and data processing<br>Improve code quality and project structure<br> Goals<br><br>Improve frontend architecture and scalability<br>Deepen knowledge in machine learning and AI<br>Learn more backend development and system design<br>Build complex, production-level projects<br> Approach<br><br>I focus on writing clean and understandable code, with attention to maintainability and performance. I explore new technologies while strengthening fundamentals and keeping consistency in development.
+# About Me
+
+Hi, I’m Arman.
+
+I’m a Python and Machine Learning developer focused on building intelligent systems, data-driven applications, and scalable software solutions. I enjoy combining software engineering with AI technologies to create practical and high-performance projects.
+
+I actively improve my knowledge in machine learning, backend development, and system architecture while working on real-world applications and experimenting with modern technologies.
+
+# Main Focus
+
+* Machine Learning & AI
+* Python Development
+* Data Processing & Analysis
+* Backend Systems
+* Model Training & Optimization
+* API Development
+* Scalable Application Architecture
+
+# Tech Stack
+
+## Machine Learning / AI
+
+Python, NumPy, Pandas, scikit-learn, TensorFlow, PyTorch, Keras, SciPy, OpenCV, MLflow, Matplotlib, Plotly
+
+## Backend / Programming
+
+Python, REST API, PostgreSQL, MySQL, MongoDB, SQLite, Redis
+
+## Tools & DevOps
+
+Git, GitHub Actions, Docker, Linux, AWS, Nginx
+
+## Frontend
+
+React, JavaScript, HTML, CSS, TailwindCSS
+
+# Experience
+
+* 1+ year of experience in Python and Machine Learning
+* Building and training ML models
+* Working with data preprocessing and feature engineering
+* Developing backend systems and API integrations
+* Creating modern and responsive web applications
+* Writing clean, maintainable, and scalable code
+* Working with Git-based development workflows
+
+# What I Do
+
+* Build machine learning and AI projects using Python
+* Train and evaluate ML models with scikit-learn, TensorFlow, and PyTorch
+* Process and analyze datasets using Pandas and NumPy
+* Develop backend services and REST APIs
+* Create scalable and maintainable application architectures
+* Experiment with data analysis, automation, and intelligent systems
+* Improve performance, structure, and code quality in projects
+
+# Goals
+
+* Deepen expertise in Machine Learning and Artificial Intelligence
+* Build production-level AI systems
+* Improve backend engineering and system design skills
+* Learn advanced deep learning and model optimization techniques
+* Create large-scale real-world projects combining AI and software engineering
+
+# Approach
+
+I focus on writing clean, scalable, and understandable code with strong attention to maintainability and performance. I continuously strengthen fundamentals while exploring new technologies and modern development practices.
 
 
 ## Socials:
