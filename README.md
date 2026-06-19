@@ -17,7 +17,7 @@ I’m a Python and Machine Learning developer focused on building intelligent sy
 ### Tech Stack
 
 * **ML / AI:** Python, NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Keras, OpenCV, MLflow
-* **Backend & DBs:** REST APIs, PostgreSQL, MySQL, MongoDB, SQLite, Redis, Amazon DynamoDB
+* **Backend & DBs:** PostgreSQL, MySQL, Redis, Amazon DynamoDB
 * **DevOps & Tools:** Git, GitHub Actions, Docker, Linux, AWS, Nginx, Bash, PowerShell
 * **Frontend:** JavaScript, React, HTML, CSS, TailwindCSS
 
